@@ -19,7 +19,7 @@ export const DashboardLayout = ({ children, title, subtitle }: DashboardLayoutPr
         </main>
         {/* Footer Credits */}
         <footer className="px-6 py-4 border-t border-border text-center text-sm text-muted-foreground">
-          © 2025 Army Logistics Services. All rights reserved. | Developed by <span className="text-primary font-semibold">syntaxSquad</span>
+          © 2025 Army Logistics Services. All rights reserved. | Developed by <span className="text-primary font-semibold">techTitans</span>
         </footer>
       </div>
     </div>
